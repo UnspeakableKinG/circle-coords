@@ -1,3 +1,4 @@
+<html>
 	<head>
 		<title>Circle Coordinates</title>
 		<script src="circle_coords.js"></script>
@@ -8,3 +9,4 @@
 		<p><input type="button" value="Generate Coordinates" onclick="generate()"></p>
 		<textarea readonly id="coordinates" cols="30" rows="20"></textarea>
 	</body>
+</html>
